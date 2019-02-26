@@ -38,7 +38,7 @@ namespace WebApplication1.Controllers
         {
             var qrEncoder = new QrEncoder(ErrorCorrectionLevel.H);
             var code = new QrCode();
-            qrEncoder.TryEncode("hello qrcode", out code);
+            qrEncoder.TryEncode($"hello qrcode{DateTime.Now.ToString()}", out code);
             const int modelSizeInPixels = 4;
 
             var render = new GraphicsRenderer(new FixedModuleSize(modelSizeInPixels, QuietZoneModules.Two), Brushes.Black, Brushes.White);
