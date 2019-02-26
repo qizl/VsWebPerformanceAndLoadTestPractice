@@ -5,11 +5,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{E731E038-7CF2-434D-B024-D7F2D67A4229}</ProjectGuid>
+    <ProjectGuid>{1C15DD4B-DCD3-4668-BABD-ADC3F4F37A30}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebAndLoadTest</RootNamespace>
-    <AssemblyName>WebAndLoadTest</AssemblyName>
+    <RootNamespace>WebAndLoadTestProject</RootNamespace>
+    <AssemblyName>WebAndLoadTestProject</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
